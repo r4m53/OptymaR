@@ -1,7 +1,8 @@
 streamlit
 pandas
-openpyxl
+numpy
 plotly
+openpyxl
 streamlit-aggrid
-reportlab
-kaleido
+scipy
+cvxpy
