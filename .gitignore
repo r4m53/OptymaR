@@ -1,0 +1,16 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+
+cache/
+outputs/
+_internal/
+
+.DS_Store
+Thumbs.db
+
+*.log
+*.exe
+click_test.py
+Optv11.py
