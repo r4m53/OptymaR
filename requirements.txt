@@ -6,3 +6,4 @@ openpyxl
 streamlit-aggrid
 scipy
 cvxpy
+PyPortfolioOpt
